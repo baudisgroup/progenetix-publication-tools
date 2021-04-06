@@ -15,7 +15,7 @@ client = MongoClient() ### let python connect to mongo
 cl = client['progenetix'].publications ### load collection
 
 l = []
-with open("/Users/sofiapfund/Desktop/Internship/Scripts/retrieve_publications/publications.txt") as f:
+with open("/Users/username/annotation_file.txt") as f: ### insert the path of your file containing the publication annotations (annotations must be in a specific order!)
    rd = csv.reader(f, delimiter="\t", quotechar='"')
    for row in rd:
         l.append(row)
