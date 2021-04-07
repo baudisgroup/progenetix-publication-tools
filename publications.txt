@@ -1,0 +1,12 @@
+PMID	acgh	ccgh	genomes	ngs	progenetix	wes	wgs	provenance	provenance_id	status	result	note
+33567541	1	0	23	0	0	3	0	buenos aires	buenosaires::argentina	sample data not accessible	1	international samples: new york, paris, barcelona
+33544757	0	0	67	67	0	67	0	seoul	seoul::koreanrepublic	sample data in Progenetix	1	0
+33560380	0	0	24	24	0	24	0	graz	graz::austria	sample data not accessible	1	international samples:  boston, evanston
+33509126	79	0	88	9	0	9	0	goeteborg	goeteborg::sweden	sample data in Progenetix	1	0
+32796005	914	0	1049	135	0	0	135	new york city	newyorkcity::unitedstates	sample data in Progenetix	1	children's oncology group (samples from many locations within usa)
+33562188	1	0	1	0	0	0	0	rome	rome::italy	sample data not accessible	1	0
+32899953	66	0	66	0	0	0	0	villejuif	villejuif::france	sample data in Progenetix	1	international samples:  texas, usa
+32895052	0	0	4	4	0	4	0	berlin	berlin::germany	sample data in Progenetix	1	0
+32802958	0	0	13	13	0	13	0	boston	boston::unitedstates	sample data not accessible	1	0
+33147338	0	0	1190	1190	0	0	1190	munich	munich::germany	sample data in Progenetix	1	0
+10092127	0	58	58	0	0	0	0	kyoto	kyoto::japan	sample data in Progenetix	1	0
